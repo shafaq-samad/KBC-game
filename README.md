@@ -1,0 +1,1 @@
+The KBC Game is a Windows Forms application built with C#. It replicates the popular quiz game 'Kaun Banega Crorepati', where players answer multiple-choice questions to increase their score and progress through different levels.
